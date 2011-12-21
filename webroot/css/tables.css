@@ -1,0 +1,13 @@
+table thead tr th.permission-column, table tbody tr td.permission-column {
+    text-align: center;
+    width: 80px;
+}
+table tbody tr td small, table tbody tr td.Inherit {
+    color: rgb(150, 150, 150);
+}
+table tbody tr td.Deny {
+    color: rgb(150, 0, 0);
+}
+table tbody tr td.Allow {
+    color: rgb(0, 150, 0);
+}
