@@ -4,7 +4,7 @@ This is based off of Joseph Crawford's Acl Plugin for CakePHP 1.3.
 
 ## Installation
 
-* Clone/Copy the files in this directory into `app/Plugin/Acls`
+* Clone/Copy the files in this directory into `app/Plugins/Acls`
 
 ## Documentation
 
